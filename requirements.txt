@@ -1,0 +1,2 @@
+# No external dependencies — uses Python standard library only
+# Required modules: socket, threading, time, datetime, logging, re, os
